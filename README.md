@@ -3,12 +3,12 @@
 ### <b>Description:</b>
 This is an unsupervised machine learning capstone project on customer segmentation, given by [Alma Better](https://www.almabetter.com/).
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Problem statement:</b>
 In this project, Our main task is to identify major customer segments on a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail company.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Data description (Columns involved):</b>
 
@@ -21,7 +21,7 @@ In this project, Our main task is to identify major customer segments on a trans
 * CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 * Country: Country name. Nominal, the name of the country where each customer resides.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Business context of the problem:</b>
 
@@ -52,7 +52,7 @@ Customer segmentation is the process by which you divide your customers up based
 
 ![pic4](https://user-images.githubusercontent.com/85065799/204151812-045c09d1-300b-4d6b-9c0a-1b62b3d2df69.png)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Project Flowchart:</b>
 1. Initial preparations(Loading the dependencies and the data).
@@ -79,7 +79,7 @@ Customer segmentation is the process by which you divide your customers up based
    * K Means with elbow method.
    * Hierarchical clustering (Agglomerative).
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Conclusion:</b>
 
@@ -109,7 +109,7 @@ Customer segmentation is the process by which you divide your customers up based
   * Choosing the right approach for segmentation.
   * Choosing the right ML models and evaluation metrics.
   
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 <b> For further information you can check the google colab file added in the repository. 
 
