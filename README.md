@@ -100,6 +100,9 @@ Customer segmentation is the process by which you divide your customers up based
   * Agglomerative clustering has a silhouette score of 0.4958, a Calinski harabasz index of 3616 and a Davies Bouldin score of 0.711.
   * K Means model with elbow method is the best performing model.
   * Simple K Means model is the worst performing model.
+  * Actions to take for each cluster:
+      1. Perform targeted analysis and targeted advertisement for each cluster.
+      2. Advertise products that can be presented with a discount to the customers in the lesser important clusters, which could convert the customers in these less important groups to customers of more important clusters.
   
 #### <b>Challenges faced:</b>
   * Removing outliers.
